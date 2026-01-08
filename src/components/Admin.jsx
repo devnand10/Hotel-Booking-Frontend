@@ -24,9 +24,9 @@ function Admin() {
             <form style={{marginLeft:'10%'}}>
                 <table style={{marginLeft:'-8.5%', width:'105%', marginTop:'3%'}}>
                     <tr>
-                      <th>Guest Name:</th>
+                      {/* <th>Guest Name:</th> */}
                       <th>Room Number:</th>
-                      <th>Check-in Date:</th>
+                      {/* <th>Check-in Date:</th> */}
                       <th>Check-out Date:</th>  
                       <th>Phone Number</th>
                     </tr>
